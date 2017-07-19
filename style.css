@@ -14,21 +14,21 @@ body {
     margin: auto;
 }
 header {
-width: 960px;
+	width: 960px;
 	background-color: #ebebeb;
 	color: #777;
 	margin: 10px;
     padding: 30px;
 }
 nav {
-width: 960px;
+	width: 960px;
 	background-color: #ebebeb;
 	color: #777;
 	margin: 10px;
     padding: 30px;
 }
 section {
-width: 495px;
+	width: 495px;
 	background-color: #ebebeb;
 	color: #777;
 	margin: 10px;
@@ -51,24 +51,24 @@ aside {
 }
 h1 {
 	font-style: bold;
-		background-color: #ebebeb;
+	background-color: #ebebeb;
 	color: #777;
-		margin: 10px;
+	margin: 10px;
     padding: 10px;
 }
 div {
-width: 980px;
-display: flex;
+	width: 980px;
+	display: flex;
 }
 p {
 	font-style: bold;
-		background-color: #ebebeb;
+	background-color: #ebebeb;
 	color: #777;
-		margin: 10px;
+	margin: 10px;
     padding: 10px;
 }
 footer {
-width: 960px;
+	width: 960px;
 	background-color: #ebebeb;
 	color: #777;
 	margin: 10px;
@@ -76,8 +76,8 @@ width: 960px;
 }
 
 .clear {
-  overflow: auto;
-  zoom: 1;
+	overflow: auto;
+	zoom: 1;
 }
 .width {
 	width: 960px;
