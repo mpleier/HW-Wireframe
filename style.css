@@ -46,6 +46,8 @@ aside {
 	color: #777;
 	margin: 10px;
     padding: 30px;
+    align-items: stretch;
+    flex-grow: 1;
 }
 h1 {
 	font-style: bold;
@@ -56,6 +58,7 @@ h1 {
 }
 div {
 width: 980px;
+display: flex;
 }
 p {
 	font-style: bold;
